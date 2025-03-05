@@ -21,5 +21,25 @@ public class Singleton {
 		Singleton singleton = Singleton.getInstance();
 		singleton.showMessage();
 	}
+	
+	private void mama() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void kutty() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void vaadi() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void omala() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
